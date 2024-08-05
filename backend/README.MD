@@ -1,0 +1,1 @@
+# Backend Fastify with MongoDB 👋
